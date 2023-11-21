@@ -8,6 +8,7 @@ En la ultima parte del proyecto se puede alternar entre:
 * Implementación de tensorboard para visionado de las gráficas de los datos. (seleccionado por defecto)
 
 Nota:
+
 Para el visionado de las gráficas escribe en la terminal:
   tensorboard --logdir runs/
 Devolverá una dirección http en la que podemos visionar las gráficas mientras se ejecuta el programa.
